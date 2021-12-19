@@ -1,0 +1,2 @@
+# Risk-Prediction-For-New-Insurance-Using-Customer-Information
+This project build using the concept of Machine Learning. In this the insurance data of old customers along with the associated risk are taken from kaggle. Predictive modelling is applied on the information of new customer in order to predict the risk level. For this I have used Random Forest Algorithm. This project is deployed using Django Framework.
